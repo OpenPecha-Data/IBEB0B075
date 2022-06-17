@@ -1,0 +1,76 @@
+id: IBEB0B075
+source: https://www.lotsawahouse.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-17T12:28:12.451954'
+last_modified: '2022-06-17T12:28:12.451964'
+parser: null
+source_metadata:
+  title: Light Offering Prayers
+  language: nl
+  description: 'A series of ''lamp aspiration prayers'' (mar me''i smon lam) to accompany
+    the offering of butter lamps, lights or candles:'
+  volume:
+    fF7C6:
+      title: Light Offering Prayer
+      base_file: fF7C6.txt
+      order: 1
+      parent: Prayers
+    f4F81:
+      title: Lamp Aspiration Prayer (from the Tsok Offering 'A Rain of Blessings')
+      base_file: f4F81.txt
+      order: 2
+      parent: Prayers
+    f35AA:
+      title: 'Ocean of Offering Clouds: A Light Offering Prayer'
+      base_file: f35AA.txt
+      order: 3
+      parent: Prayers
+    f27D2:
+      title: A Spontaneous Vajra Song
+      base_file: f27D2.txt
+      order: 4
+      parent: Prayers
+    fD849:
+      title: Aspiration for Electric Lamps
+      base_file: fD849.txt
+      order: 5
+      parent: Prayers
+    fAF3F:
+      title: Brief Light Offering Prayer
+      base_file: fAF3F.txt
+      order: 6
+      parent: Prayers
+    f4B11:
+      title: Light Offering Prayer
+      base_file: f4B11.txt
+      order: 7
+      parent: Prayers
+    f884C:
+      title: 'Marmé Mönlam: The Light Offering Prayer'
+      base_file: f884C.txt
+      order: 8
+      parent: Prayers
+    f20F4:
+      title: Light Offering Aspiration Prayer
+      base_file: f20F4.txt
+      order: 9
+      parent: Prayers
+    f7F88:
+      title: Lamp Aspiration Prayer
+      base_file: f7F88.txt
+      order: 10
+      parent: Prayers
+    fD4E5:
+      title: 'The Torch of Wisdom: A Method of Offering Butter Lamps Based on Ārya
+        Mañjuśrī'
+      base_file: fD4E5.txt
+      order: 11
+      parent: Rituals
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
